@@ -1,8 +1,4 @@
 # BrickBreaker 3 Versions
-Thanks for the details. Here is a README file based on the information you provided:
-
-```markdown
-# BrickBreaker 3 Versions
 
 This repository contains a Brick Breaker game implemented in HTML, CSS, and JavaScript with multiple versions and backgrounds. The game features a scorecard, 3 lives, and 3 levels with a great UI.
 
